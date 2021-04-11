@@ -165,13 +165,18 @@ body{
 .prev-icon33{
     background-color: black;
 }
-.btn-primary2{
-    top: 15px;
+.btn-primary2 {
+    top: 12px;
     right: 3%;
     float: right;
     position: absolute;
-    background-color: rosybrown;
+    background: none;
+    border: none;
     display: none;
+}
+.btn-primary2 i{
+    font-size: 30px;
+    color: #3E4347;
 }
 .form-check-input2{
     background-color: #060405;
